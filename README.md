@@ -145,9 +145,30 @@ Webmethods.io Integration has two types of execution logs for analysis:
 
  
 ### Flow Service Execution Results
-Logs displaying statistics of flow services execution status:
-- **Running**: Service is currently being executed.
-- **Failed**: Service execution failed.
+#### Flow Service Execution Results Dashboard:
+
+> These logs display statistics associated with **execution of flow
+> services** as in below dashboard.
+>
+> ![](vertopal_db61f758c50740318d93c5d237968a48/media/image4.png)
+
+-   **Successful**: Flow service execution is completed successfully.
+
+-   **Failed**: Flow service execution has failed to complete.
+
+-   **Running**: Flow service is currently being executed. See
+    the [Terminating Flow service
+    executions](https://docs.webmethods.io/integration/monitor/monitorsections/#terminating-running-flowservice-executions) section,
+    to stop ongoing Flow service executions.
+
+#### Download Logs:
+
+> Logs with selected date range can be downloaded in csv or Json format
+> in Flow service execution Dashboard Section.
+>
+> ![A screenshot of a computer Description automatically
+> generated](vertopal_db61f758c50740318d93c5d237968a48/media/image5.png)
+
 
 ---
 
