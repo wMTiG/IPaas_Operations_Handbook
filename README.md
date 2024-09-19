@@ -8,7 +8,7 @@
 |---------|------------|-------------------------------------------|
 | 1.0     | April 2024 | First document release ready for Review    |
 
-## Table of Contents
+## Table of Contents 
 
    [Introduction](#introduction)
    - [Operational Details](#operational-details)
