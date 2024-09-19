@@ -665,5 +665,16 @@ d.  For these two instances Certificates must be updated on expiry.
 
 ## References
 
-- [webMethods.io Integration API Reference](https://docs.webmethods.io/integration/)
-- [Hybrid Integration](https://docs.webmethods.io/integration/release_readme/readme110#limitations)
+1.  Here are the references for out of the box API's:
+
+      [webMethods.io Integration API Reference - webMethods.io
+      Integration](https://docs.webmethods.io/integration/apis/webmethods_api_ref/#gsc.tab=0)
+
+2.  Documentation: [Overview - webMethods.io
+       Integration](https://docs.webmethods.io/integration/starthere/home#gsc.tab=0)
+
+3.  Hybrid Integration: [Hybrid Integration - webMethods.io
+       Integration](https://docs.webmethods.io/integration/hybrid_integration/hybridintegrationdetails/#gsc.tab=0)
+
+4.  Limitations:
+    <https://docs.webmethods.io/integration/release_readme/readme110#limitations>
