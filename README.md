@@ -105,7 +105,43 @@ Webmethods.io Integration has two types of execution logs for analysis:
 
 ### Workflow Execution Results
 #### Workflow Execution results dashboard:
-These logs display statistics associated with execution of workflows as in below dashboard
+
+> These logs display statistics associated with **execution of
+> workflows** as in below dashboard.
+>
+> ![A screenshot of a computer Description automatically
+> generated](vertopal_db61f758c50740318d93c5d237968a48/media/image2.png)
+
+#### Workflow Execution results Status:
+
+-   **Successful**: Workflow execution is completed successfully.
+
+-   **Stopped**: Workflow execution is stopped.
+
+-   **Running**: Workflow is currently being executed.
+
+-   **Timeout**: Workflow execution has failed to complete in the
+    > allotted time.
+
+-   **Queued**: Workflow execution has not been initiated yet. The
+    > workflows with Queued status are executed automatically after a
+    > specific time period.
+
+-   **Failed**: Workflow execution has failed to complete.
+
+#### Resume and restart workflows:
+
+> Workflows enabled to resume and restart for **failed or timed out
+> transactions** can be resumed and restarted respectively. Operations
+> team will be prompted to edit data before resuming or restarting.
+
+#### Download Logs:
+
+> Logs with selected date range can be downloaded in **csv or json
+> format** in Work Flow execution Dashboard Section.
+>
+> ![A screenshot of a graph Description automatically
+> generated](vertopal_db61f758c50740318d93c5d237968a48/media/image3.png)
 
  
 ### Flow Service Execution Results
