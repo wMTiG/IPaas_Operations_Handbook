@@ -87,15 +87,27 @@ For various tasks to be performed by operations team for Tenant Management and S
 | 14    | How to identify the IP address of the tenant?                                                         |                                                                                                                        |
 
 
+### Security Management
+Operational Monitoring:
+When setting up monitoring, there are two things that one wants monitoring to help operations’ team answer: what is broken and why. In other words, you want to monitor the logs, dashboards etc., that indicate symptoms and their potential causes of failure occurrences.
+
+Operations team can monitor logs from Monitor tab on webmethods.io Integration page to understand the statistics of associated with workflows and flowservices. 
+Webmethods.io Integration has two types of execution logs for analysis:
+
 ---
 
 ## Execution Results
+> These logs display statistics associated with **execution of
+> workflows** as in below dashboard.
+>
+> ![A screenshot of a computer Description automatically
+> generated](vertopal_db61f758c50740318d93c5d237968a48/media/image2.png)
 
 ### Workflow Execution Results
-Logs displaying statistics of workflow execution status:
-- **Successful**: Workflow completed successfully.
-- **Failed**: Workflow execution failed.
+#### Workflow Execution results dashboard:
+These logs display statistics associated with execution of workflows as in below dashboard
 
+ 
 ### Flow Service Execution Results
 Logs displaying statistics of flow services execution status:
 - **Running**: Service is currently being executed.
