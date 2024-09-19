@@ -10,7 +10,7 @@
 
 ## Table of Contents 
 
-   [Introduction](#introduction)
+- [Introduction](#introduction)
    - [Operational Details](#operational-details)
      - [Tenant Management](#tenant-management)
      - [Security Management](#security-management)
@@ -48,7 +48,7 @@
          - [Update User Certificate ](#Update-User-Certificate)
          - [Update Tenant Certificate](#Update-Tenant-Certificate)
          - [Update Partner Certificate](#Update-Partner-Certificate)
-   [References](#references)
+ - [References](#references)
 
 ---
 
