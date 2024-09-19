@@ -173,13 +173,74 @@ Webmethods.io Integration has two types of execution logs for analysis:
 ---
 
 ## Availability of Execution Results
-Logs are available for up to the last **30 days**. The operation team can filter logs by date range.
+> Duration of availability of these logs is by default upto maximum of
+> last 30 days.
+>
+> The operation team can filter logs on date range as in dashboard
+> screenshot above. To know more about logs availability duration, reach
+> out to Software AG Cloud Ops team through SI incident.
+>
+> For more information on Execution Results visit documentation page. --
+>
+> <https://docs.webmethods.io/integration/monitor/monitorsections/#ta-execution_results>
 
 ---
 
 ## Audit Logs
-A history of actions performed by users within the tenant. Logs are available for the last **30 days** and can be downloaded in CSV or JSON format.
+The **Audit** Logs section maintains a record of all the activities
+performed by the users logged into tenant. It maintains a history of all
+the actions that are performed within a tenant, including details **such
+as type of action performed, the user performing the action, and
+date/time.**
 
+Navigate to tenant homescreen and then click **Monitor \> Audit Logs**
+to access these logs.
+
+![A screenshot of a computer Description automatically
+generated](vertopal_db61f758c50740318d93c5d237968a48/media/image6.png)
+
+![](vertopal_db61f758c50740318d93c5d237968a48/media/image7.png)
+
+![A screenshot of a computer Description automatically
+generated](vertopal_db61f758c50740318d93c5d237968a48/media/image6.png)
+
+1.  Audit Logs are available on wM.io Integration for duration of **last
+    30 days**.
+
+2.  Operations team can **filter** on **date range, Time, Module, Title
+    and Action fields** to query logs.
+
+3.  Can download logs locally in **CSV or JSON** format. To download
+    click the **Download Logs** button located at the upper-right corner
+    of the **Audit** **Logs** screen.
+
+4.  Above screenshot provides info on Actions like Create Workflow and
+    User Login of tenant users.
+
+5.  For the **Develop Anywhere, Deploy Anywhere and Central Control,
+    Distributed Execution** capabilities, audit logs are supported for
+    the following operations:
+
+    a.  Create edge runtime
+
+    b.  Create cloud runtime
+
+    c.  Add OAuth 2.0 token
+
+    d.  Update an edge runtime description
+
+    e.  Enable or disable runtime
+
+    f.  Deregister an edge runtime
+
+    g.  Cancel or timeout edge runtime registration
+
+    h.  Delete an edge runtime instance
+
+    i.  Sync a develop anywhere flow service
+
+> For more information on Audit logs visit documentation page. -
+> <https://docs.webmethods.io/integration/monitor/monitorsections/#ta-monitor_general>
 ---
 
 ## End-to-End Monitoring
