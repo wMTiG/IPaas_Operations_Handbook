@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+   [Introduction](#introduction)
    - [Operational Details](#operational-details)
      - [Tenant Management](#tenant-management)
      - [Security Management](#security-management)
@@ -37,18 +37,18 @@
       - [Alerts](#Alerts)
    - [Data Analysis: Insights](#Data-Analysis:-Insights)
       - [Incident Management:](#Incident-Management)
-   - [1.7. Configure Alert Rules](#Configure-Alert-Rules)
-      - [1.7.1. Workflow Alerts ](#Workflow-Alerts)
-         - [1.7.1.1. Adding Workflow Alerts ](#Adding-Workflow-Alerts)
-      - [1.7.2. FlowService Alerts ](#FlowService-Alerts)
-         - [1.7.2.1. Adding flowservice alerts](#Adding-flowservice-alerts)
-      - [1.7.3. Deployment Considerations](#Deployment-Considerations)
-      - [1.7.4. Tenant Maintenance:](#Tenant-Maintenance)
-      - [1.7.5. Maintenance of renewable assets:](#Maintenance-of-renewable-assets)
-         - [1.7.5.1. Update User Certificate ](#Update-User-Certificate)
-         - [1.7.5.2. Update Tenant Certificate](#Update-Tenant-Certificate)
-         - [1.7.5.3. Update Partner Certificate](#Update-Partner-Certificate)
-2. [References](#references)
+   - [Configure Alert Rules](#Configure-Alert-Rules)
+      - [Workflow Alerts ](#Workflow-Alerts)
+         - [Adding Workflow Alerts ](#Adding-Workflow-Alerts)
+      - [FlowService Alerts ](#FlowService-Alerts)
+         - [Adding flowservice alerts](#Adding-flowservice-alerts)
+      - [Deployment Considerations](#Deployment-Considerations)
+      - [Tenant Maintenance:](#Tenant-Maintenance)
+      - [Maintenance of renewable assets:](#Maintenance-of-renewable-assets)
+         - [Update User Certificate ](#Update-User-Certificate)
+         - [Update Tenant Certificate](#Update-Tenant-Certificate)
+         - [Update Partner Certificate](#Update-Partner-Certificate)
+   [References](#references)
 
 ---
 
